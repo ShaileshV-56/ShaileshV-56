@@ -4,10 +4,10 @@
 
 **Integrated M.Tech CS (Data Science) @ VIT Vellore &nbsp;·&nbsp; Software Engineering & Machine Learning Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailesh56/)
 [![GitHub](https://img.shields.io/badge/GitHub-ShaileshV--56-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShaileshV-56)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaileshveerapathiran333@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shailesh_V/)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ### 👋 About Me
 
-I'm a 2nd-year Integrated M.Tech student at **VIT Vellore** (CGPA: 9.23 / 10), building at the intersection of **full-stack development**, **machine learning**, and **AI-powered products**. I enjoy turning complex analytical problems into clean, deployable tools.
+I'm a 3rd-year Integrated M.Tech student at **VIT Vellore** (CGPA: 9.23 / 10), building at the intersection of **machine learning**, **data science**, and **full-stack development**. I enjoy turning complex analytical problems into clean, deployable tools.
 
 - 🎓 **Integrated M.Tech** in Computer Science & Engineering (Data Science) — VIT Vellore `2023 – 2028`
 - 🔭 Latest project: **Mini Stock Advisor** — ensemble ML + LLM stock intelligence dashboard
