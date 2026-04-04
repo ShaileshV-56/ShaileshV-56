@@ -2,11 +2,12 @@
 
 # Shailesh V
 
-**Building at the intersection of ML, Finance & AI-powered products**
+**Integrated M.Tech CS (Data Science) @ VIT Vellore &nbsp;·&nbsp; Software Engineering & Machine Learning Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ShaileshV--56-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShaileshV-56)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaileshveerapathiran333@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
 
 </div>
 
@@ -14,13 +15,14 @@
 
 ### 👋 About Me
 
-I'm a developer passionate about building intelligent, data-driven applications — from end-to-end ML pipelines to LLM-powered products. I enjoy turning complex financial and analytical problems into clean, usable tools.
+I'm a 2nd-year Integrated M.Tech student at **VIT Vellore** (CGPA: 9.23 / 10), building at the intersection of **full-stack development**, **machine learning**, and **AI-powered products**. I enjoy turning complex analytical problems into clean, deployable tools.
 
-- 🔭 Currently building **[Mini Stock Advisor](https://github.com/ShaileshV-56/Mini-Stock-Advisor)** — an ensemble ML + LLM stock intelligence dashboard
-- 🌱 Exploring **LLM agents**, **LangGraph**, and **agentic AI workflows**
-- 🧠 Interested in **quantitative finance**, **ML systems**, and **applied AI**
-- 💬 Ask me about **Python**, **Streamlit**, **ML pipelines**, or **stock data**
-- 📍 Based in India
+- 🎓 **Integrated M.Tech** in Computer Science & Engineering (Data Science) — VIT Vellore `2023 – 2028`
+- 🔭 Latest project: **Mini Stock Advisor** — ensemble ML + LLM stock intelligence dashboard
+- 🌱 Currently exploring **LLM agents**, **LangGraph**, and **agentic AI workflows**
+- 🧠 Interests: **Applied ML**, **Computer Vision**, **Full-Stack Dev**, **Quantitative Finance**
+- 💬 Ask me about **Python**, **MERN Stack**, **YOLOv8**, or **Streamlit apps**
+- 📍 Based in Vellore, India
 
 ---
 
@@ -29,43 +31,72 @@ I'm a developer passionate about building intelligent, data-driven applications 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**ML / Data**
+**ML / Data / Vision**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=xgboost&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-0072C6?style=flat-square&logo=meta&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **LLM / AI**
 
-![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat-square&logo=groq&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat-square&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logoColor=white)
 
-**Frontend / Visualization**
+**Web & Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**BI & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-**Tools & Deployment**
+**DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🔗 [Mini Stock Advisor](https://github.com/ShaileshV-56/Mini-Stock-Advisor) | Stock intelligence dashboard with ML forecasting, risk analytics & LLM commentary | Python, Streamlit, XGBoost, Groq |
-| 🔗 [Project 2](https://github.com/ShaileshV-56) | Short description of what this project does | Tech, Stack |
-| 🔗 [Project 3](https://github.com/ShaileshV-56) | Short description of what this project does | Tech, Stack |
+| Project | Description | Stack | Period |
+|---|---|---|---|
+| 📈 [Mini Stock Advisor](https://github.com/ShaileshV-56/Mini-Stock-Advisor) | Stock intelligence dashboard — ensemble ML forecasting, risk analytics & LLM-generated commentary for NIFTY 50 / S&P 500 | Python, Streamlit, XGBoost, Prophet, LangGraph, Groq | 2025 |
+| 🌍 [Nestify](https://github.com/ShaileshV-56) | Full-stack travel platform with listings, reviews, auth, Cloudinary image storage & Mapbox geolocation, deployed on Render | MongoDB, Express.js, Node.js, React, Mapbox | May – Jul 2025 |
+| 🏅 [Olympics Data Analysis](https://github.com/ShaileshV-56) | Analyzed 120+ years / 270K+ records of Olympic data; Random Forest medal predictor (89.7% accuracy) with CI/CD pipeline | Python, Pandas, Scikit-learn, Streamlit, Docker, GitHub Actions | Jan – Feb 2026 |
+| 🗑️ [Garbage Detection System](https://github.com/ShaileshV-56) | Real-time garbage detection (86.4% mAP50, ~150ms/image) using YOLOv8 trained on 3,669 images | Python, YOLOv8, OpenCV, Streamlit | Oct – Dec 2025 |
+
+---
+
+### 🏆 Achievements
+
+- 🧩 Solved **100+ problems** on LeetCode — DSA, arrays, trees, graphs
+- 📊 Completed **Power BI Essentials Workshop** — hands-on dashboards & data visualization
+- 🎯 **Student Coordinator** — Riviera, VIT (30,000+ participants from 650+ colleges)
+- 🤝 **Student Volunteer** — graVITas, VIT (40,000+ participants technical fest)
 
 ---
 
@@ -77,10 +108,6 @@ I'm a developer passionate about building intelligent, data-driven applications 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaileshV-56&layout=compact&theme=default&hide_border=true&langs_count=6" />
 
 </div>
-
----
-
-### 🔥 Streak
 
 <div align="center">
 
