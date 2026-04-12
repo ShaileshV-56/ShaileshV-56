@@ -104,13 +104,6 @@ I'm a 3rd-year Integrated M.Tech student at **VIT Vellore** (CGPA: 9.23 / 10), b
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShaileshV-56&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaileshV-56&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShaileshV-56&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 </div>
