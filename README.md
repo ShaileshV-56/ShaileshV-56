@@ -4,31 +4,87 @@
 
 ### Java Backend Developer • Spring Boot • Microservices • Distributed Systems
 
-Building scalable backend applications using **Spring Boot, Kafka, RabbitMQ, gRPC, Redis, and PostgreSQL**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+Kafka+%7C+RabbitMQ;Distributed+Systems+Enthusiast;Always+Learning+Something+New" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailesh56/)
-[![GitHub](https://img.shields.io/badge/GitHub-ShaileshV--56-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaileshV-56)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shailesh_V-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shailesh56)
+[![GitHub](https://img.shields.io/badge/GitHub-ShaileshV--56-181717?style=for-the-badge&logo=github)](https://github.com/ShaileshV-56)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shailesh_V/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaileshveerapathiran333@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:shaileshveerapathiran333@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-I'm a final-year Integrated M.Tech Computer Science (Data Science) student at **VIT Vellore** with a strong interest in **backend engineering, distributed systems, and scalable software architecture**.
+🎓 Integrated M.Tech (Computer Science & Engineering - Data Science) at **VIT Vellore**
 
-I enjoy designing production-style backend systems using modern Java technologies and event-driven architectures.
+💻 Passionate about building scalable backend applications using **Spring Boot**, **Microservices**, **Kafka**, and **Cloud-native technologies**.
 
-### Currently Exploring
+🚀 Currently exploring
 
 - Distributed Systems
-- Spring Cloud Ecosystem
-- System Design
-- Docker & Containerization
 - Event-Driven Architecture
-- AI-powered Backend Applications
+- System Design
+- Kubernetes
+- Cloud Deployment
+
+📚 Coursework
+
+- Data Structures & Algorithms
+- Operating Systems
+- Database Management Systems
+- Computer Networks
+- Object-Oriented Programming
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 Patient Management Platform
+
+Microservices-based healthcare platform consisting of **5 independent services**.
+
+### Highlights
+
+- 🔐 JWT Authentication & Spring Security
+- 🌐 API Gateway
+- ⚡ Kafka Event Streaming
+- 🔄 gRPC Communication
+- 🧠 Redis Caching
+- 📊 Prometheus + Grafana Monitoring
+- 🛡️ Resilience4j Circuit Breakers
+- 🐳 Dockerized Architecture
+
+**Tech Stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,redis"/>
+</p>
+
+---
+
+## 💪 AI Fitness Recommendation Platform
+
+Cloud-native backend generating AI-powered fitness recommendations.
+
+### Highlights
+
+- OAuth2 Authentication
+- Keycloak
+- RabbitMQ Messaging
+- Spring Cloud
+- Service Discovery
+- Config Server
+- Google Gemini API
+
+**Tech Stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mongodb,postgres,docker"/>
+</p>
 
 ---
 
@@ -36,121 +92,71 @@ I enjoy designing production-style backend systems using modern Java technologie
 
 ### Languages
 
-- Java
-- SQL
-- Python
-- JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,mysql"/>
+</p>
 
 ### Backend
 
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- Microservices
+<p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white"/>
+</p>
 
 ### Databases
 
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-
-### Messaging & Communication
-
-- Apache Kafka
-- RabbitMQ
-- gRPC
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
+</p>
 
 ### DevOps & Tools
 
-- Docker
-- Git
-- GitHub
-- Maven
-- Postman
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,maven"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ### Data & Analytics
 
-- Pandas
-- NumPy
-- Power BI
-
----
-
-# 📌 Featured Projects
-
-## 🏥 Patient Management Platform
-
-A distributed healthcare platform built using a **5-service microservices architecture**.
-
-### Features
-
-- Spring Boot Microservices
-- Spring Security + JWT
-- API Gateway
-- Apache Kafka
-- gRPC Communication
-- Redis Caching
-- Resilience4j
-- Prometheus & Grafana
-- PostgreSQL
-- Docker
-
-🔗 Repository:
-https://github.com/ShaileshV-56
-
----
-
-## 💪 AI Fitness Recommendation Platform
-
-Cloud-native backend that generates personalized fitness recommendations using AI.
-
-### Features
-
-- Spring Cloud
-- Keycloak Authentication
-- OAuth2 + JWT
-- RabbitMQ
-- Google Gemini API
-- MongoDB
-- PostgreSQL
-- Docker
-
-🔗 Repository:
-https://github.com/ShaileshV-56
-
----
-
-# 📚 Currently Learning
-
-- Kubernetes
-- AWS
-- Advanced System Design
-- Distributed Databases
-- Observability
-- CI/CD Pipelines
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 
 # 🏆 Achievements
 
-- 🎓 Integrated M.Tech (CSE - Data Science), VIT Vellore
-- 📈 CGPA: **9.19 / 10**
-- 💻 Strong foundation in Data Structures & Algorithms
-- 🎯 Student Coordinator — Riviera, VIT
-- 🤝 Student Volunteer — graVITas, VIT
+🎓 **CGPA:** 9.19 / 10
+
+👨‍💻 Solving Data Structures & Algorithms regularly on LeetCode
+
+🎯 Student Coordinator — Riviera, VIT
+
+🤝 Student Volunteer — graVITas, VIT
 
 ---
 
-# 📫 Connect
+# 📈 GitHub Stats
 
-- LinkedIn: https://linkedin.com/in/shailesh56
-- GitHub: https://github.com/ShaileshV-56
-- Email: shaileshveerapathiran333@gmail.com
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShaileshV-56&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaileshV-56&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=ShaileshV-56&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
-> *Building reliable backend systems, one service at a time.*
+<div align="center">
+
+### ⭐ Building scalable backend systems, one microservice at a time.
+
+</div>
