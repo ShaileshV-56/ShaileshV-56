@@ -122,15 +122,7 @@ Cloud-native backend generating AI-powered fitness recommendations.
 
 ## 📊 GitHub Analytics
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShaileshV-56&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaileshV-56&layout=compact&theme=github_dark&hide_border=true" />
 <img width="70%" src="https://streak-stats.demolab.com?user=ShaileshV-56&theme=github-dark&hide_border=true" />
-</div>
-<br>
-
-## 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShaileshV-56&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 </div>
 <br>
 
