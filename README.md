@@ -127,10 +127,6 @@ Cloud-native backend generating AI-powered fitness recommendations.
 <br>
 
 ## 🐍 Contribution Snake
-<div align="center">
-<img src="https://raw.githubusercontent.com/ShaileshV-56/ShaileshV-56/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
-</div>
-<br>
 
 <div align="center">
 
