@@ -141,22 +141,48 @@ Cloud-native backend generating AI-powered fitness recommendations.
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShaileshV-56&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShaileshV-56&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaileshV-56&layout=compact&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaileshV-56&layout=compact&theme=github_dark&hide_border=true"/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=ShaileshV-56&theme=github-dark&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=ShaileshV-56&theme=github-dark&hide_border=true" />
+
+<br><br>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaileshV-56&theme=github_dark"/>
 
 </div>
 
 ---
 
+# 🏆 GitHub Achievements
+
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=ShaileshV-56&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ShaileshV-56&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 ### ⭐ Building scalable backend systems, one microservice at a time.
 
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShaileshV-56/ShaileshV-56/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
